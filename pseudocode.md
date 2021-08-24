@@ -1,0 +1,1 @@
+Will be adding details on what I want to do with my blog.
