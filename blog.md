@@ -1,1 +1,2 @@
 I am looking forward to learning more about coding!
+After working with codeanywhere and gitHub for a few hours the most important thing that I have learned is that its the little things that count. Even something as small as saving your file can make all the difference when adding and committing.
