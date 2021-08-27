@@ -1,10 +1,10 @@
-# **Week One**
+# **Chase Shelton's Blog**
+
+## *Week One*
 
 > "Some beautiful paths can't be discovered without getting lost."
 >
 >Erol Ozan
-
-## August 26th, 2021
 
 This first week of bootcamp has been quite the experience. It started with meeting my fellow bootcampers and instructors to begin the process of learning about coding. My first week has gone well. 
 
