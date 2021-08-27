@@ -11,3 +11,4 @@ I am excited to learn more about styling and making the blog page look a little 
 This blog is going to be a place where I can showcase my increasing digital literacy and progress as we make our way through the bootcamp. I look forward to sharing my path including my successes, trials, and what projects I am working on.
 
 ![My Favorite Team](https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg)
+My Favorite Team
