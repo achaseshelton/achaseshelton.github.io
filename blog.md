@@ -1,6 +1,8 @@
 # **Week One August 26th, 2021**
 
-## The start of my path!!
+> "Some beautiful paths can't be discovered without getting lost."
+>
+>Erol Ozan
 
 This first week of bootcamp has been quite the experience. It started with meeting my fellow bootcampers and instructors to begin the process of learning about coding. My first week has gone well. 
 
