@@ -1,10 +1,9 @@
-html, body  {
-    margin: 10px;
-    padding: 20px;
-}
-
 body  {
+    margin: 20px;
     font-family: Arial, Arial, Helvetica, sans-serif;
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1  {
@@ -22,13 +21,16 @@ main  {
 }
 
 article  {
-    align-content: left;
+    float: left;
     max-width: 70%;
 }
 
 aside img  {
-    align-items: right;
-    display: block:
+    float: right;
+    display: block;
     max-width: 128px;
     max-height: 128px;
+}
+aside ul  {
+    list-style-type: none;
 }
