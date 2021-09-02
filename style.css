@@ -8,7 +8,7 @@ body  {
 }
 
 h1  {
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
 }
 
@@ -34,4 +34,8 @@ aside img  {
 }
 aside ul  {
     list-style-type: none;
+}
+
+footer  {
+    font size: 15px;
 }
