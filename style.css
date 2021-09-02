@@ -29,3 +29,9 @@ aside  {
     flex: 1;
 
 }
+
+aside img  {
+    display: block:
+    max-width: 128px;
+    max-height: 128px;
+}
