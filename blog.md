@@ -14,6 +14,6 @@ I am excited to learn more about styling and making the blog page look a little 
 
 This blog is going to be a place where I can showcase my increasing digital literacy and progress as we make our way through the bootcamp. I look forward to sharing my path including my successes, trials, and what projects I am working on.
 
-![My Favorite Team](/img/lfc.png)
+![My Favorite Team](img/lfc.png)
 
 My Favorite Team
