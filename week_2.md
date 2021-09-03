@@ -1,6 +1,6 @@
 # **Week 2**
 
-## *Fast and Furious
+## *Fast and Furious*
 
 After a week of learning the basics using github, codeanywhere, CLI's, and markdown, week 2 of Awesome bootcamp really turned up the speed. This week contained a lot of content to help increase my scope of knowledge. I spent a lot of time reading, interacting with tutorials, and watching videos. Among the things I learned about this week are:
 - HTML
