@@ -5,7 +5,11 @@ body  {
     background-repeat: no-repeat;
     background-size: cover;
 }
-.splash {
-margin-top: 5rem;
-margin-bottom: 5rem;
+#splash {
+padding-top: 2rem;
+}
+
+#building {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
