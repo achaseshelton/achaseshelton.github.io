@@ -10,3 +10,5 @@ This blog has become an evolving space. It started out as something simple, but 
 Prior to the bootcamp we were tasked with describing how to make a peanut butter and jelly sandwich. At the time it seemed kind of weird, but now it makes a lot more sense. We started to work with pseudocoding this week so that we could write our code in a base form to work from. The peanute butter and jelly sandwich really helped make sense. Computers seem so complex, but in reality it only takes and does what the code tells it to do. You have to make sure that you give complete instructions. Without even the simplest detail the whole of your code won't work. Pseudocoding helps you to think through your code and make sure that when you actually type your code in your language of choice its easier to convert.
 
 ![Javascript](./img/js.png)
+
+
